@@ -1,4 +1,4 @@
-# SeoulBikeRentals
+# Seoul Bike Rentals 
 
 Seoul is aiming to be more environmentally friendly when it comes to traversing the city. One major initiative is Ddareungi, also known as Seoul’s bike sharing system. While it has been well received, it is clear that rental volumes vary and sometimes lead to wait times and shortages. It is important that we improve access now and meet future demand. 
 
