@@ -6,5 +6,4 @@ With that said, we took a look to see what impacts bike rentals. More specifical
 
 
 
-
 Tableau Dashboard: https://public.tableau.com/views/SeoulBikeRentals_16973900243560/Seoul-RentalBikeInsights?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
